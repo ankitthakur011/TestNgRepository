@@ -16,6 +16,8 @@ public class TestNGDemo {
 	  public void sample2() {
 		   
 		  System.out.println("Second program");
+		  
+		  System.out.println("Checking GIT updation");
 	  }
 	
 }
